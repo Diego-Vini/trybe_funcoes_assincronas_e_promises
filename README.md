@@ -1,4 +1,4 @@
-<h2>Conceito de higher order functions desenvolvidos durante o curso da Trybe<h2>
+<h2>Conceito de higher order functions desenvolvidos durante o curso da Trybe</h2>
 
 01-Assincrono
   - Trabalhando com calbacks functions;
